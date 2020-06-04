@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Large &#8211; Indigenous Values Initiative</title>
+	<atom:link href="https://indigenousvalues.org/youth-sizes/youth-large/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indigenousvalues.org</link>
+	<description>NYA WEÑHA SKÄ NOÑH: Thank you for being well</description>
+	<lastBuildDate>Thu, 26 Sep 2019 01:34:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://indigenousvalues.org/wp-content/uploads/2017/06/cropped-indigenousvalues-color-512x512-32x32.png</url>
+	<title>Large &#8211; Indigenous Values Initiative</title>
+	<link>https://indigenousvalues.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Youth Gray T-Shirt</title>
+		<link>https://indigenousvalues.org/product/youth-t-shirt/</link>
+		
+		<dc:creator><![CDATA[Adam DJ Brett]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2017 21:44:46 +0000</pubDate>
+				<guid isPermaLink="false">https://indigenousvalues.org/?post_type=product&#038;p=1289</guid>
+
+					<description><![CDATA[<strong>Nike Tru-Fit Youth Gray</strong> Commemorative Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend 2017 t-shirt with the <a href="https://indigenousvalues.org/lacrosse-weekend/">creator's game image</a> on the front and the <a href="https://indigenousvalues.org/">Indigenous Values Initiative</a> and Wooden Stick Festival logos on the sleeves. The origins of lacrosse come from the Haudenosaunee and all funds from your tax-free purchases go to promote the Indigenous values of this game.]]></description>
+										<content:encoded><![CDATA[<p><strong>Nike Tru-Fit Youth Gray</strong> Commemorative Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend 2017 t-shirt with the <a href="https://indigenousvalues.org/lacrosse-weekend/">creator&#8217;s game image</a> on the front and the <a href="https://indigenousvalues.org/">Indigenous Values Initiative</a> and Wooden Stick Festival logos on the sleeves.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

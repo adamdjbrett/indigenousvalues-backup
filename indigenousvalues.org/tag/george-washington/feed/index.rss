@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>George Washington &#8211; Indigenous Values Initiative</title>
+	<atom:link href="https://indigenousvalues.org/tag/george-washington/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indigenousvalues.org</link>
+	<description>NYA WEÑHA SKÄ NOÑH: Thank you for being well</description>
+	<lastBuildDate>Mon, 25 Jun 2018 12:02:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://indigenousvalues.org/wp-content/uploads/2017/06/cropped-indigenousvalues-color-512x512-32x32.png</url>
+	<title>George Washington &#8211; Indigenous Values Initiative</title>
+	<link>https://indigenousvalues.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Story of Survival Revived by the Cicadas’ Loud Return-NYT</title>
+		<link>https://indigenousvalues.org/a-story-of-survival-revived-by-the-cicadas-loud-return-nyt/</link>
+		
+		<dc:creator><![CDATA[Philip P. Arnold]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2018 12:02:40 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[17-year Cicada]]></category>
+		<category><![CDATA[George Washington]]></category>
+		<category><![CDATA[Haudenosaunee]]></category>
+		<category><![CDATA[Onondaga Nation]]></category>
+		<guid isPermaLink="false">https://indigenousvalues.org/?p=1556</guid>
+
+					<description><![CDATA[The Onondaga people have a history etched with stories of perilous trials and resilience, from confronting settlers and missionaries centuries ago to more recently quarreling with local school officials. A territory that had once stretched across New York has been &#8230; <a class="kt-excerpt-readmore" href="https://indigenousvalues.org/a-story-of-survival-revived-by-the-cicadas-loud-return-nyt/" aria-label="A Story of Survival Revived by the Cicadas’ Loud Return-NYT">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p class="css-1i0edl6 e2kc3sl0">The Onondaga people have a history etched with stories of perilous trials and resilience, from confronting settlers and missionaries centuries ago to more recently quarreling with local school officials. A territory that had once stretched across New York has been reduced to a postage stamp of land outside Syracuse. Still, they are here. And their land remains sovereign.</p>
+<p class="css-1i0edl6 e2kc3sl0">“That’s one thing they have never been able to do,” Ms. Lyons said. “Destroy us.”</p>
+<p><a href="https://www.nytimes.com/2018/06/22/nyregion/cicadas-return-onondaga-nation.html">https://www.nytimes.com/2018/06/22/nyregion/cicadas-return-onondaga-nation.html</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

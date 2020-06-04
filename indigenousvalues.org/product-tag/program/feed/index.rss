@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>program &#8211; Indigenous Values Initiative</title>
+	<atom:link href="https://indigenousvalues.org/product-tag/program/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indigenousvalues.org</link>
+	<description>NYA WEÑHA SKÄ NOÑH: Thank you for being well</description>
+	<lastBuildDate>Thu, 16 Jan 2020 16:15:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://indigenousvalues.org/wp-content/uploads/2017/06/cropped-indigenousvalues-color-512x512-32x32.png</url>
+	<title>program &#8211; Indigenous Values Initiative</title>
+	<link>https://indigenousvalues.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Commemorative Booklet on the Origins of Lacrosse</title>
+		<link>https://indigenousvalues.org/product/commemorative-deyhontsigwaehs-creators-game-lacrosse-weekend-booklet/</link>
+		
+		<dc:creator><![CDATA[Adam DJ Brett]]></dc:creator>
+		<pubDate>Fri, 27 Oct 2017 19:52:43 +0000</pubDate>
+				<guid isPermaLink="false">https://indigenousvalues.org/?post_type=product&#038;p=1241</guid>
+
+					<description><![CDATA[The <strong>Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend Brochure</strong> educates people about the Haudenosaunee and the origins and importance of democracy and Lacrosse.  The origins of lacrosse come from the Haudenosaunee and all funds from your tax-free purchases go to promote the Indigenous values of this game.]]></description>
+										<content:encoded><![CDATA[<p>The <strong>Deyhontsigwa’ehs- The Creator’s Game, Lacrosse Weekend Brochure</strong> educates people about the Haudenosaunee and the origins and importance of democracy and Lacrosse.</p>
+<p>Table of Contents</p>
+<ul>
+<li>A Message from Onondaga Clan Mothers</li>
+<li>Deyhontsigwa’es/Lacrosse: The Creator’s Game. by Kent Lyons</li>
+<li>NYA WEÑHA SKÄ NOÑH Thank you for being well; a wellness that depends on proper relationships with each other and the natural world.</li>
+<li>The Creator’s Game Haudenosaunee Origins at Sacred Onondaga Lake</li>
+<li>The Haudenosaunee Influence on the Founding Fathers</li>
+<li>Alf Jacques: Wooden Stick Maker of the Onondaga Nation</li>
+<li>Deyhontsigwa&#8217;ehs (They Bump Hips): Lacrosse of the Onondaga Nation</li>
+<li>Lacrosse is a Family Affair by Lyle Thompson from an interview with Bob Liff</li>
+<li>Thanksgiving Address: Greeting to the Natural World-Words That Come Before All Else (in Hebrew and English)</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

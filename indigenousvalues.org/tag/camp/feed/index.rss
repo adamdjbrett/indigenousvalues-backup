@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>camp &#8211; Indigenous Values Initiative</title>
+	<atom:link href="https://indigenousvalues.org/tag/camp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indigenousvalues.org</link>
+	<description>NYA WEÑHA SKÄ NOÑH: Thank you for being well</description>
+	<lastBuildDate>Sat, 09 Sep 2017 19:31:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://indigenousvalues.org/wp-content/uploads/2017/06/cropped-indigenousvalues-color-512x512-32x32.png</url>
+	<title>camp &#8211; Indigenous Values Initiative</title>
+	<link>https://indigenousvalues.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Thompson Brothers Youth Lax Camp</title>
+		<link>https://indigenousvalues.org/thompson-brothers-brothers-youth-lax-camp/</link>
+		
+		<dc:creator><![CDATA[Adam DJ Brett]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2017 19:22:47 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Lacrosse]]></category>
+		<category><![CDATA[#laxweekend17]]></category>
+		<category><![CDATA[2017 Lacrosse Weekend]]></category>
+		<category><![CDATA[camp]]></category>
+		<category><![CDATA[Haudenosaunee]]></category>
+		<category><![CDATA[Lax]]></category>
+		<category><![CDATA[Syracuse]]></category>
+		<guid isPermaLink="false">https://indigenousvalues.org/?p=1160</guid>
+
+					<description><![CDATA[9/29 – 10/1: Thompson Brothers N7 Lacrosse Camp (Grades 3-12) Exclusive to Native American Campers September 29 4:30pm-9:00pm September 30 9:00am-4:0pm October 1 9:00am-12:00pm Followed by Iroquois Nationals vs Syracuse Orange at the Carrier Dome  Download Flyer Register online at: &#8230; <a class="kt-excerpt-readmore" href="https://indigenousvalues.org/thompson-brothers-brothers-youth-lax-camp/" aria-label="Thompson Brothers Youth Lax Camp">Read More</a>]]></description>
+										<content:encoded><![CDATA[<h3>9/29 – 10/1: Thompson Brothers N7 Lacrosse Camp<br />
+(Grades 3-12)<br />
+Exclusive to Native American Campers</h3>
+<ul>
+<li>September 29 4:30pm-9:00pm</li>
+<li>September 30 9:00am-4:0pm</li>
+<li>October 1 9:00am-12:00pm</li>
+<li>Followed by Iroquois Nationals vs Syracuse Orange at the Carrier Dome</li>
+</ul>
+<p><a href="https://indigenousvalues.org/wp-content/uploads/2017/09/tbl_n7_campflyer-500x700.jpg">			<i class="icon-download " style="font-size:14px; display:inline-block; color:#8224e3; 			"></i>
+				 Download Flyer</a></p>
+<p>Register online at: <a href="https://thompsonbrotherslacrosse.us/camps/">Thompson Brothers Lacrosse</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

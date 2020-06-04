@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>newsletter &#8211; Indigenous Values Initiative</title>
+	<atom:link href="https://indigenousvalues.org/tag/newsletter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://indigenousvalues.org</link>
+	<description>NYA WEÑHA SKÄ NOÑH: Thank you for being well</description>
+	<lastBuildDate>Sat, 29 Jul 2017 16:35:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://indigenousvalues.org/wp-content/uploads/2017/06/cropped-indigenousvalues-color-512x512-32x32.png</url>
+	<title>newsletter &#8211; Indigenous Values Initiative</title>
+	<link>https://indigenousvalues.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Indigenous Values Spring 2009 Newsletter</title>
+		<link>https://indigenousvalues.org/indigenous-values-spring-2009-newsletter/</link>
+		
+		<dc:creator><![CDATA[Philip P. Arnold]]></dc:creator>
+		<pubDate>Wed, 22 Mar 2017 05:13:36 +0000</pubDate>
+				<category><![CDATA[Archive]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<guid isPermaLink="false">https://indigenousvalues.org/?p=101</guid>
+
+					<description><![CDATA[Use the below button to download the Spring 2009 Indigenous Values Newsletter &#160;]]></description>
+										<content:encoded><![CDATA[<h2>Use the below button to download the Spring 2009 Indigenous Values Newsletter</h2>
+<a href="https://indigenousvalues.org/wp-content/uploads/2017/03/IVI-F09.pdf" id="kadbtn21" target="_self" class="kad-btn btn-shortcode kad-btn-primary lg-kad-btn " style="background-color:#49147f; border: 4px solid; border-color:#000;  color:#ffffff;" onMouseOver="this.style.color=&#039;#ffffff&#039;" onMouseOut="this.style.color=&#039;#ffffff&#039;">2009 IVI Newsletter PDF <i class='icon-download'></i></a>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
